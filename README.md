@@ -4,7 +4,7 @@ Infinite expandable dropdown menus in jquery, javascript, html 3 and css 2
 
 I don't know about these licenses currently.  I believe the Wordpress and jquery licenses are open source.  My company has the copyright on the infinite expandable drop down menu, but there was a bug.
 
-This was a 120 coding hours and $600 company loss.  Used to carry the data tools utilities 
+This was an eye, aka canine, tooth, a 120 coding hours and $600 company loss.  Used to carry the data tools utilities 
 
 The corrected version should be contained within.
 
