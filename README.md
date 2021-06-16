@@ -1,6 +1,6 @@
 # Adroit-Sites-LLC-Wordpress-Infinite-Expandable-Dropdown-Menus
 
-Infonite expandable dropdown menus in jquery, javascript, html 3 and css 2
+Infinite expandable dropdown menus in jquery, javascript, html 3 and css 2
 
 I don't know abouther these licenses currently.  I believe the Wordpress and jquery licenses are open source.  My company has the copyright on the infinite expandable drop down menu, but there was a bug.
 
